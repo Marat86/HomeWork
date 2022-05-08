@@ -29,8 +29,7 @@ public class lesson2 {
     public static boolean isNegative (int x) {
         if (x < 0) {
             return true;
-        }
-        return false;
+        } return false;
 
     }
     public static void printWordNTimes (String word, int times) {
