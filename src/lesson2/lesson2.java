@@ -14,7 +14,7 @@ public class lesson2 {
 
         printWordNTimes("Hello Java ", 6);
     }
-    public static boolean sumFrom10To20 (int a, int b){ //тутКак яПонял мыСоздаем методДля boolean которыйМыВынесли вНачало и присвоилиЗначение в ()
+    public static boolean sumFrom10To20 (int a, int b){
         return a+b>=10 && a+b<=20;
     }
 
